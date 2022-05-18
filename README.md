@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/659853809165533186/976122212702650478/Logo_Kris_Banner_kopieren.jpg" alt="Banner FSC-AVC"/>
+</p>
+
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
