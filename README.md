@@ -1,3 +1,9 @@
+<h1 align="center">Hello there 👨🏻‍✈️</h1>
+
+[![Years Badge](https://badges.pufler.dev/years/kaiserdmc)](https://badges.pufler.dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kaiserdmc)
+
+
 ### ⚡ Interests and Background ⚡
 Aspiring C#/.NET Dev  
 Also interested in workflow automation with PowerShell and system administration (*Windows, Linux*).  
