@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👨🏻‍✈️</h1>
 
-[![Years Badge](https://badges.pufler.dev/years/kaiserdmc)](https://badges.pufler.dev)
+<!--[![Years Badge](https://badges.pufler.dev/years/kaiserdmc)](https://badges.pufler.dev)-->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kaiserdmc)
 
 <p align="center">
@@ -31,7 +32,9 @@ Also interested in workflow automation with PowerShell and system administration
 `Language` Denotes an ongoing course/education or use in work environment.  
 The rest of the languages were used either during various education stages or previous work responsibilities.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserdmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserdmc&layout=compact&theme=nord&)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **KaiserDMC/KaiserDMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
