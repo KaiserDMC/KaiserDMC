@@ -32,7 +32,7 @@ Also interested in workflow automation with PowerShell and system administration
 `Language` Denotes an ongoing course/education or use in work environment.  
 The rest of the languages were used either during various education stages or previous work responsibilities.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserdmc&layout=compact&theme=nord&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserdmc&show_icons=true&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
