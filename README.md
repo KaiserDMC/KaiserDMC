@@ -2,14 +2,13 @@
 
 <!--[![Years Badge](https://badges.pufler.dev/years/kaiserdmc)](https://badges.pufler.dev)-->
 
-[![discord](https://img.shields.io/badge/KaiserDMC-8801-blue?logo=discord&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/KaiserDMC)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kaiserdmc)
-
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/659853809165533186/976122212702650478/Logo_Kris_Banner_kopieren.jpg" alt="Banner FSC-AVC"/>
 </p>
+
+[![discord](https://img.shields.io/badge/KaiserDMC-8801-blue?logo=discord&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/KaiserDMC)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kaiserdmc)
 
 ### ✨ Personal Info ✨
 Co-founder of [FSC-AvConsulting (Aviation Consultancy Firm)](https://fsc-avconsulting.ch)  
