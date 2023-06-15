@@ -12,7 +12,7 @@
 ### ✨ Personal Info ✨
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krisztian-fodor-566372a8/)
-[![discord](https://img.shields.io/badge/KaiserDMC-8801-blue?logo=discord&logoColor=white)]()
+[![discord](https://img.shields.io/badge/kaiserdmc-blue?logo=discord&logoColor=white)]()
 
 Co-founder of [FSC-AvConsulting (Aviation Consultancy Firm)](https://fsc-avconsulting.ch)  
 [Contact via email](mailto:k.fodor@fsc-avconsulting.ch) 📫 
