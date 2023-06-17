@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👨🏻‍✈️</h1>
 
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/KaiserDMC)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kaiserdmc)
+<!--[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/KaiserDMC)-->
+<!--[![visitors](https://visitor-badge.glitch.me/badge?page_id=kaiserdmc)-->
 
 <!--[![Years Badge](https://badges.pufler.dev/years/kaiserdmc)](https://badges.pufler.dev)-->
 
@@ -12,7 +12,7 @@
 ### ✨ Personal Info ✨
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krisztian-fodor-566372a8/)
-[![discord](https://img.shields.io/badge/kaiserdmc-blue?logo=discord&logoColor=white)]()
+[![discord](https://img.shields.io/badge/kaiserdmc-grey?logo=discord&logoColor=white)]()
 
 Co-founder of [FSC-AvConsulting (Aviation Consultancy Firm)](https://fsc-avconsulting.ch)  
 [Contact via email](mailto:k.fodor@fsc-avconsulting.ch) 📫 
@@ -27,7 +27,7 @@ Also interested in workflow automation with PowerShell and system administration
 | Basic | Intermediate | Advanced
 | :--- | :--- | :---
 | Pascal | VisualBasic | `VBA`
-| ANSI C | `C#` | `MATLAB`
+| ANSI C | `MATLAB` | `C#`
 | FORTRAN
 | Object Pascal
 
