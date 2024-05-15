@@ -9,12 +9,11 @@ Procedure and Airspace Designer
 </p>
 
 *   🌍  I'm based in Linköping, SE
-*   🖥️  See my portfolio at [Work Certificates](http://certificates.fsc-avconsulting.ch)
 *   ✉️  You can contact me at [k.fodor@fsc-avconsulting.ch](mailto:k.fodor@fsc-avconsulting.ch)
-*   🚀  I'm currently working on [Sky Tracker App](http://sky-tracker.info)
+*   🚀  Latest deployed project [Skeppsgården B&B](https://skeppsgardenbb.se)
 *   🧠  I'm learning DevOps, GO
 *   🤝  I'm open to collaborating on Open Source Linux related projects
-*   ⚡  Co-founder of OtakuDevs and FSC-AvConsulting (Aviation Consultancy Firm)
+*   ⚡  Co-founder of [OtakuDevs](https://otakudevs.net/) and FSC-AvConsulting (Aviation Consultancy Firm)
 
 <a href="https://www.github.com/KaiserDMC" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/KaiserDMC?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
                   
