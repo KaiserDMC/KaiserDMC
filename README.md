@@ -1,24 +1,23 @@
-Hi 👋 My name is Krisztian Fodor
-================================
-
-Procedure and Airspace Designer
+Procedure and Airspace Designer @ LFV Sweden
 -------------------------------
+
+
+
+*   🌍  I'm based in Linköping, SE
+*   ✉️  Get in touch by mailing [k.fodor@fsc-avconsulting.ch](mailto:k.fodor@fsc-avconsulting.ch)
+*   🚀  Latest deployed project [Skeppsgården B&B](https://skeppsgardenbb.se)
+*   🧠  I'm currently learning C, GO and dabbling in some DevOps
+*   🤝  I'm looking/open to collaborating on Linux related projects
+*   ⚡  Co-founder of [OtakuDevs](https://otakudevs.net/) and FSC-AvConsulting (Aviation Consultancy Firm)
 
 <p align="center">
   <img src="Logo_Kris_Banner_kopieren.jpg" alt="Banner FSC-AVC"/>
 </p>
-
-*   🌍  I'm based in Linköping, SE
-*   ✉️  You can contact me at [k.fodor@fsc-avconsulting.ch](mailto:k.fodor@fsc-avconsulting.ch)
-*   🚀  Latest deployed project [Skeppsgården B&B](https://skeppsgardenbb.se)
-*   🧠  I'm learning DevOps, GO
-*   🤝  I'm open to collaborating on Open Source Linux related projects
-*   ⚡  Co-founder of [OtakuDevs](https://otakudevs.net/) and FSC-AvConsulting (Aviation Consultancy Firm)
-
-<a href="https://www.github.com/KaiserDMC" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/KaiserDMC?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
                   
 ### Socials
 <p align="left"> <a href="https://discord.com/users/kaiserdmc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/KaiserDMC" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/krisztian-fodor-566372a8/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<a href="https://www.github.com/KaiserDMC" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/KaiserDMC?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
 
 ### Skills 
 <p align="left">
