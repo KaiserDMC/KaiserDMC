@@ -1,10 +1,10 @@
-Procedure and Airspace Designer @ LFV Sweden
+Procedure and Airspace Design Specialist @ BULATSA
 -------------------------------
 
 
 
-*   🌍  I'm based in Linköping, SE
-*   ✉️  Get in touch by mailing [k.fodor@fsc-avconsulting.ch](mailto:k.fodor@fsc-avconsulting.ch)
+*   🌍  I'm based in Sofia, BG
+*   ✉️  Get in touch by mailing [kfodor@fsc-avconsulting.ch](mailto:kfodor@fsc-avconsulting.ch)
 *   🚀  Latest deployed project [Skeppsgården B&B](https://skeppsgardenbb.se)
 *   🧠  I'm currently learning C, GO and dabbling in some DevOps
 *   🤝  I'm looking/open to collaborating on Linux related projects
